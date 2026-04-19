@@ -1,4 +1,4 @@
-A collection of Python scripts demonstrating foundational Artificial Intelligence algorithms and basic programming logic, completed as part of a lab final examination.
+## A collection of Python scripts demonstrating foundational Artificial Intelligence algorithms and basic programming logic, completed as part of a lab final examination.
 
 ### Prerequisites
 
