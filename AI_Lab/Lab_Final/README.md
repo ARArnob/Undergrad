@@ -27,10 +27,10 @@ The repository contains four distinct problem-solving scripts:
 Run the scripts directly from your terminal. 
 
 ```bash
-python question1.py
-python question2.py
-python question3.py
-python question4.py
+python problem_01.py
+python problem_02.py
+python problem_03.py
+python problem_04.py
 ```
 
 *(Note: `question1.py` and `question3.py` require you to manually input data into the terminal when prompted. `question2.py` and `question4.py` execute automatically using internal base values.)*
